@@ -1,0 +1,11 @@
+name: dpi
+channels:
+  - defaults
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.7
+  - cudatoolkit=9.2
+  - _libgcc_mutex=0.1
+  - torchaudio=0.13.1
+  - torchvision=0.14.1

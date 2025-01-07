@@ -8,8 +8,8 @@ Reproducing Results from the Paper: "Denoised Predictive Imagination: An informa
 
 Humans naturally filter out irrelevant noise and focus on important information to understand and predict how dynamical systems behave over time. For example, when watching a busy scene, we instinctively ignore distractions like background chatter and focus only on what matters. But, reinforcement learning algorithms struggle in similar scenarios. They have difficulty separating meaningful signals from noisy, high-dimensional data, particularly in environments with complex and dynamic noise. And this limitation hampers their ability to make accurate, noise-free predictions. 
 ***
-![ALT TEXT](https://github.com/Biruk-Abere/Denoised-World-Models/blob/main/Screenshot_from_2025-01-07%2005-56-26.png)
-
+### Relation to Human Psychology
+Predictive Information is maximized by the brain at a higher, more abstract level as a strategy to prevent sensory overload. Imagine a scenario where you’re driving a vehicle and nearing a bend in the road, beyond which visibility is limited. Based on the experience of having faced congested traffic thus far (for say), you may anticipate a similar traffic configuration beyond the bend. In these instances, you mentally simulate future possibilities based on the historical experience and using the current location as a reference point. Notably, during this mental forecast, you instinctively disregard exogenous noise like vehicle’s number plate, cloud formations in the sky, or roadside billboards. This subconscious omission of inconsequential details significantly influences the agent’s decision-making process. While maintaining scholarly modesty, it’s essential to clarify that our contribution in this paper does not constitute an ultimate solution to the challenges described. Instead, our work introduces alternative ideas, traversing similar territory and contributing fresh perspectives to the existing discours
 ***
 
 ## Reconstruction in the natural background setting

@@ -7,7 +7,7 @@ Reproducing Results from the Paper: "Denoised Predictive Imagination: An informa
 
 
 Humans naturally filter out irrelevant noise and focus on important information to understand and predict how dynamical systems behave over time. For example, when watching a busy scene, we instinctively ignore distractions like background chatter and focus only on what matters. But, reinforcement learning algorithms struggle in similar scenarios. They have difficulty separating meaningful signals from noisy, high-dimensional data, particularly in environments with complex and dynamic noise. And this limitation hampers their ability to make accurate, noise-free predictions. 
-
+***
 ![ALT TEXT](https://github.com/Biruk-Abere/Denoised-World-Models/blob/main/Screenshot_from_2025-01-07%2005-56-26.png)
 
 ***
